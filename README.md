@@ -1,1 +1,1 @@
-# was-terraform-training
+# aws-terraform-training
